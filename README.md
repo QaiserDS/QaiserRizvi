@@ -21,6 +21,4 @@ IDEs:
 Version Control: 
 AI tools:  
 
-Certifications 📜:
-Post Graduate Program in Data Analytics & Machine Learning
 
