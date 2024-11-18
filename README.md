@@ -1,4 +1,4 @@
-Hi 👋, I'm Syed M Qaiser Rizvi
+<h1> Hi 👋, I'm Syed M Qaiser Rizvi </h1>
 
 About Me:
 
